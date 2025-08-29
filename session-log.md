@@ -1,10 +1,6 @@
 # Blackjack Session Log
 
-_Use this template to record each blackjack session. Copy and paste for every new session._
-
----
-
-## Session Date: YYYY-MM-DD
+## Session Date: 2025-08-29
 **Location:**  
 **Start Time:**  
 **End Time:**  
@@ -25,6 +21,11 @@ _Use this template to record each blackjack session. Copy and paste for every ne
 - **Ending Balance:**  
 - **Highest/Lowest Balance:**  
 - **Notable Hands or Streaks:**  
+
+### Split Calculation
+- **Total Profit/Loss:**  
+- **SB-Team Share (70%):**  
+- **Casino Opponents Share (30%):**  
 
 ### Notes
 - Observations on table, dealers, or casino
