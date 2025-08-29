@@ -1,13 +1,26 @@
-# Blackjack Tracker
+# Blackjack Tracker – AI Team Deployment
 
-This repository is designed for tracking blackjack sessions and strategies. It allows you to log session data, analyze performance, and refine your approach over time.
+This repo now supports advanced blackjack team tracking with AI-powered analysis.
 
-## Suggested Usage
+## Features
 
-- Track each session’s chip balance, running Hi-Lo count, and notes about table rules or streaks.
-- Store session logs in a file like `session-log.md` (template provided below).
-- Update after every session to maintain your edge.
+- **Session Logging:** Use `session_data.csv` to record every session.
+- **AI Analysis:** Run `ai_blackjack_analyzer.py` for profit splits, best strategy detection, and cumulative team/casino stats.
+- **Dashboard:** Open `dashboard.ipynb` in Jupyter for interactive charts and strategy insights.
 
-## Example Log File
+## Getting Started
 
-See `session-log.md` for a template to record your stats, balance, and running count.
+1. Add new session data to `session_data.csv`.
+2. Run `ai_blackjack_analyzer.py` to analyze results.
+3. Launch `dashboard.ipynb` in Jupyter Notebook for visual insights.
+
+## Requirements
+
+- Python 3.x
+- pandas
+- matplotlib
+- Jupyter Notebook (for dashboard)
+
+## Next Steps
+
+Want live tracking, mobile app, or integration with cloud databases? Request your next feature!
